@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Mine_Manage : MonoBehaviour
 {
-    public float timeAfterMinePlant { get; set; } // 감지된 지뢰 설치 입력값
+    public float timeAfterMinePlant { get; set; } // 지뢰 설치 후 경과 시간
 
     // Start is called before the first frame update
     void Start()
